@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Tensor_23.png</filename>
+	<path>C:\dev\tensorflow1\models\research\object_detection\images\test\Tensor_23.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>79</ymin>
+			<xmax>261</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

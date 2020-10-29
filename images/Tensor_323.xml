@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4_mixed</folder>
+	<filename>Tensor_323.png</filename>
+	<path>C:\Users\razva\Desktop\4_mixed\Tensor_323.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>skystone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>90</ymin>
+			<xmax>228</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

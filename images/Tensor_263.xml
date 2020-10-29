@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3_stone</folder>
+	<filename>Tensor_263.png</filename>
+	<path>C:\Users\razva\Desktop\3_stone\Tensor_263.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>81</ymin>
+			<xmax>217</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

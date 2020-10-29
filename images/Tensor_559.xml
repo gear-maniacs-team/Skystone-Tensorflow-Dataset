@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6_skystone</folder>
+	<filename>Tensor_559.png</filename>
+	<path>C:\dev\tensorflow1\models\research\object_detection\images\6_skystone\Tensor_559.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>skystone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>155</ymin>
+			<xmax>234</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

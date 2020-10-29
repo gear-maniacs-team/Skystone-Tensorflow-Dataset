@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1_stone</folder>
+	<filename>Tensor_15.png</filename>
+	<path>D:\1_stone\Tensor_15.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>101</ymin>
+			<xmax>253</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

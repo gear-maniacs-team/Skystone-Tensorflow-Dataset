@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5_stone</folder>
+	<filename>Tensor_494.png</filename>
+	<path>C:\Users\razva\Desktop\5_stone\Tensor_494.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>91</ymin>
+			<xmax>220</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>
